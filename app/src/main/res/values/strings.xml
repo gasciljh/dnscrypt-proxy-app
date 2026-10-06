@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DNS Proxy</string>
+    <string name="error_connection">Cannot connect to DNSCrypt WebUI.\n\nMake sure:\n• The module is installed and running\n• The WebUI is listening on 127.0.0.1:9090\n\nTry rebooting or restarting the module.</string>
+</resources>
